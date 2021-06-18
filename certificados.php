@@ -9,13 +9,12 @@
  * Es necesario tener instalado Openssl y agregar la respectiva CLASS-PATH o  variable de enterno!
  * 
  * 
- * @version 1.0.17
- * @author Christian Cruz
+ * @version juventino cruz Angeles 
  */
 
 class Certificados{
 
-	private $_path = '';
+	private $_path = 'CUAJ9301184R1';
 	public $_keyPem = '';
 	public $_cerPem = '';
 	public $_pfx = '';
